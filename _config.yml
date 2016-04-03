@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            My Journal
 locale:           en_US
 url:
 
@@ -41,23 +41,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mirzalazuardi Hermawan
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  bio: "Sharing is Caring"
+  email: mirzalazuardi@gmail.com
+  disqus-shortname: mirzalazuardigithubpages
+  twitter: mirzalazuardi
+  facebook: mirzalazuardi.hermawan
   google:
-    plus: #username
-    analytics:
+    plus: MirzalazuardiHermawan1
+    analytics: UA-65639723-4
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: mirzalazuardi
+  stackoverflow: 3093351/luckymeerza
+  linkedin: mirzalazuardi
   xing: #username
   instagram: #username
   lastfm: #username
