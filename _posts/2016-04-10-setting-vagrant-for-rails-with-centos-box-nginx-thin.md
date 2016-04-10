@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up vagrant for rails app (centos box+nginx+thin)
-excerpt: "setup vagrant to your project"
+excerpt: "setup vagrant to your rails project"
 tags: [cli]
 modified: 2016-04-04
 comments: true
@@ -79,11 +79,13 @@ do this so the error will resolved. disable usb!
 and dont forget to create host-only network adapter on virtualbox, so we can use our private network that just configured above
 
 ![add adapter]({{ site.url }}/images/addadapter.png)
+<br><br>
+
+try run vagrant again
 
 ~~~bash
-$vagrant reload
 $vagrant up
-Bringing machine 'default' up with 'virtualbox' provider...
+Bringing machine 'mylovelybox' up with 'virtualbox' provider...
 ==> default: Clearing any previously set network interfaces...
 ==> default: Preparing network interfaces based on configuration...
     default: Adapter 1: nat
