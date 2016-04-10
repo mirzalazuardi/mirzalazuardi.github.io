@@ -32,6 +32,8 @@ Updated: 18.01.1970
 ----------------- CONTENT -----------------
 this is just a sample text
 $geeknote notebook-list
+Total found: 1
+  1 : work
 $geeknote logout
 ~~~
 
